@@ -16,17 +16,17 @@
 
 
 <!-- Most Used Languages -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccthinhd&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ccthinhd&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccthinhd" alt="GitHub Streak" />
 </p>
 
