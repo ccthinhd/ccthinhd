@@ -26,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccthinhd&show_icons=true&locale=en" alt="ccthinhd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccthinhd&" alt="ccthinhd" /></p>
-### --------------------------------------------------------------------------------------------------------
 <!-- BLOG-POST-LIST:END -->
