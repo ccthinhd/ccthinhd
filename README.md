@@ -1,3 +1,5 @@
+# Hi
+<!-- BLOG-POST-LIST:START -->
 ### --------------------------------------------------------------------------------------------------------
 
 - 🌱 I'm currently learning **IT**
@@ -19,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccthinhd&" alt="ccthinhd" /></p>
 
+<!-- BLOG-POST-LIST:END -->
