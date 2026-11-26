@@ -1,33 +1,25 @@
-# Hi
+Hi
+🌱 I'm currently learning IT
+💬 Feel free to contact me: **chithinhdang1404@gmail.com**
+🛠️ Languages and Tools
 
-- 🌱 I'm currently learning **IT**
-
-- 📫 How to reach me **chithinhdang1404@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ccthinhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ccthinhd" height="30" width="40" /></a>
-<a href="https://youtube.com/@ccthh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ccthh" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,ps,unreal" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+📊 GitHub Stats
 
-
-<!-- Most Used Languages -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccthinhd&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ccthinhd&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccthinhd&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccthinhd&show_icons=true&locale=en" alt="GitHub Stats" />
+🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ccthinhd&theme=transparent&hide_border=true"/>
 </p>
 
-<!-- GitHub Streak -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccthinhd" alt="GitHub Streak" />
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
-
-
-
