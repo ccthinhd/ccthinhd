@@ -1,7 +1,7 @@
 Hi
 🌱 I'm currently learning IT
 
-💬 Feel free to contact me: **chithinhdang1404@gmail.com**
+💬 contact me: **chithinhdang1404@gmail.com**
 
 🛠️ Languages and Tools
 
