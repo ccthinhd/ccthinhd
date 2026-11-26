@@ -1,7 +1,9 @@
 Hi
 🌱 I'm currently learning IT
-/n💬 Feel free to contact me: **chithinhdang1404@gmail.com**
-/n🛠️ Languages and Tools
+
+💬 Feel free to contact me: **chithinhdang1404@gmail.com**
+
+🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,ps,unreal" />
