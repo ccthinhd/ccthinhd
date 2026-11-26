@@ -7,7 +7,7 @@ Hi
 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,arduino,ps,unreal" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,arduino,ps" />
 </p>
 
 📊 GitHub Stats
