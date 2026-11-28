@@ -4,12 +4,6 @@ Hi
 
 💬 contact me: **chithinhdang1404@gmail.com**
 
-🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,arduino,ps" />
-</p>
-
 📊 GitHub Stats
 
 <p align="center">
