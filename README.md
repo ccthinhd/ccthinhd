@@ -1,7 +1,5 @@
 Hi
 
-🌱 I'm currently learning IT
-
 💬 contact me: **chithinhdang1404@gmail.com**
 
 📊 GitHub Stats
